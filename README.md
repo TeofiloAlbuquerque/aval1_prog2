@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# aval1_prog2
+Repositorio referente a resolução da primeira avaliação de programação 2
