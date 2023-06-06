@@ -4,11 +4,12 @@ version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
-  sdk: 2.19.6
+  sdk: ^2.19.6
 
 # Add regular dependencies here.
-dependencies: 
+dependencies:
   xml: ^6.3.0
+  csv: ^5.0.2
   # path: ^1.8.0
 
 dev_dependencies:

@@ -1,7 +1,6 @@
-import 'package:aval1_prog2/data.dart';
+//import 'package:aval1_prog2/data.dart';
+part of exchange;
 
-abstract class DelimetedData extends Data{
-  //Getter que retorna o caractere separador utilizado para separar os campos
-  // de um registro.
+abstract class DelimetedData extends Data {
   String get delimiter;
 }

@@ -1,3 +1,5 @@
+part of exchange;
+
 class DataException implements Exception {
   final String message;
 

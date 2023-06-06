@@ -1,7 +1,4 @@
-import 'dart:convert';
-import 'dart:io';
-import 'package:aval1_prog2/data.dart';
-import 'package:aval1_prog2/data_exception.dart';
+part of exchange;
 
 class JsonData extends Data {
   List<Map<String, dynamic>> _data = [];
