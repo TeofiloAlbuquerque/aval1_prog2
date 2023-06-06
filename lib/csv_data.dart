@@ -1,5 +1,5 @@
 part of exchange;
-class CsvData extends DelimetedData {
+class CsvData extends DelimitedData {
   String _csvFile = '';
 
   @override
