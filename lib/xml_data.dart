@@ -1,8 +1,3 @@
-// import 'package:aval1_prog2/data.dart';
-// import 'package:aval1_prog2/data_exception.dart';
-// import 'package:xml/xml.dart';
-
-// import 'exchange.dart';
 part of exchange;
 class XmlData extends Data {
   List<String> _data = [];

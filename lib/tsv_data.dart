@@ -1,6 +1,3 @@
-// import 'package:aval1_prog2/data_exception.dart';
-// import 'package:aval1_prog2/delimeted_data.dart';
-// import 'exchange.dart';
 part of exchange;
 class TsvData extends DelimetedData {
   String _tsvFile = '';

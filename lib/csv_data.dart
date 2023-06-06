@@ -1,5 +1,4 @@
 part of exchange;
-
 class CsvData extends DelimetedData {
   String _csvFile = '';
 

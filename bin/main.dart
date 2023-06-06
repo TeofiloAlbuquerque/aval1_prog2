@@ -12,7 +12,7 @@ void checkData(Data data, String fileName) {
   print('fileName: $fileName');
   print('fields\t: ${data.fields}');
   print('hasData\t: ${data.hasData}');
-  if (data is DelimetedData) {
+  if (data is DelimitedData) {
     final delim = (data.delimiter == ',') ? 'COMMA' : 'TAB';
     print('delim\t: $delim');
   }

@@ -1,5 +1,4 @@
 part of exchange;
-
 abstract class Data {
   void load(String fileName) {}
 

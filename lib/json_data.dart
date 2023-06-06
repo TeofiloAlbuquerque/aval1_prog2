@@ -1,5 +1,4 @@
 part of exchange;
-
 class JsonData extends Data {
   List<Map<String, dynamic>> _data = [];
   List<String> _fields = [];
